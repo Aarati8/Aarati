@@ -3,3 +3,8 @@ appple
 orange
 banana
 pineapple
+cherry
+draganfruit
+watermelon
+grapes
+raspberrry
