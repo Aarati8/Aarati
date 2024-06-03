@@ -3,3 +3,8 @@ tomato
 cabbage
 onion
 carrot
+cauliflower
+ginger 
+garlic
+pumpkin
+ladyfinger
